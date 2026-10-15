@@ -1,20 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,19,24&height=180&section=header&text=mudriyjo&fontSize=60&fontColor=a9fef7&fontAlignY=38&desc=λ%20LambdaCalc&descSize=22&descAlignY=60&descColor=f8d847" alt="header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,19,24&height=180&section=header&text=MudriyJo&fontSize=60&fontColor=a9fef7&fontAlignY=38&desc=λ%20LambdaCalc&descSize=22&descAlignY=60&descColor=f8d847" alt="header" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=FE428E&center=true&vCenter=true&width=520&lines=Rust+%7C+Kotlin+%7C+Elixir+%7C+TypeScript;Backend+%26+distributed+systems;Functional+programming+enthusiast" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=FE428E&center=true&vCenter=true&width=520&lines=Rust+%7C+Go-lang+%7C+Elixir+%7C+TypeScript;Backend+%26+distributed+systems;Functional+programming+enthusiast" alt="Typing SVG" />
 
 </div>
 
 ---
-
-## 👋 About
-
-- 🦀 Building backend services and payment systems in **Rust** and **Kotlin**
-- 🧪 Exploring **Elixir / Ash** and **Haskell** for functional-style design
-- 🖥 Front-ends and admin panels in **TypeScript**
-- ⌨️ Terminal-first workflow, **Neovim** powered
-- 📚 Constantly practicing: [`rust-2025-repeat`](https://github.com/mudriyjo/rust-2025-repeat), [`kotlin_recap`](https://github.com/mudriyjo/kotlin_recap), [`haskell-order-training`](https://github.com/mudriyjo/haskell-order-training)
 
 ## 🛠 Tech stack
 
@@ -26,8 +18,6 @@
 ![Haskell](https://img.shields.io/badge/Haskell-141321?style=for-the-badge&logo=haskell&logoColor=f8d847)
 ![TypeScript](https://img.shields.io/badge/TypeScript-141321?style=for-the-badge&logo=typescript&logoColor=fe428e)
 ![Python](https://img.shields.io/badge/Python-141321?style=for-the-badge&logo=python&logoColor=a9fef7)
-![Dart](https://img.shields.io/badge/Dart-141321?style=for-the-badge&logo=dart&logoColor=f8d847)
-![Lua](https://img.shields.io/badge/Lua-141321?style=for-the-badge&logo=lua&logoColor=fe428e)
 ![Terraform](https://img.shields.io/badge/Terraform-141321?style=for-the-badge&logo=terraform&logoColor=a9fef7)
 ![Neovim](https://img.shields.io/badge/Neovim-141321?style=for-the-badge&logo=neovim&logoColor=f8d847)
 ![Git](https://img.shields.io/badge/Git-141321?style=for-the-badge&logo=git&logoColor=fe428e)
