@@ -47,14 +47,14 @@
 
 <div align="center">
 
-<a href="https://github.com/mudriyjo/p2p-payment"><img alt="p2p-payment" src="https://github-readme-stats.vercel.app/api/pin/?username=mudriyjo&repo=p2p-payment&theme=radical&hide_border=true" /></a>
-<a href="https://github.com/mudriyjo/asknaya-engine"><img alt="asknaya-engine" src="https://github-readme-stats.vercel.app/api/pin/?username=mudriyjo&repo=asknaya-engine&theme=radical&hide_border=true" /></a>
+<a href="https://github.com/mudriyjo/eda-ecommerce"><img alt="eda-ecommerce" src="https://github-readme-stats.vercel.app/api/pin/?username=mudriyjo&repo=eda-ecommerce&theme=radical&hide_border=true" /></a>
+<a href="https://github.com/mudriyjo/helpdesk"><img alt="helpdesk" src="https://github-readme-stats.vercel.app/api/pin/?username=mudriyjo&repo=helpdesk&theme=radical&hide_border=true" /></a>
 
 <a href="https://github.com/mudriyjo/rust-service-template"><img alt="rust-service-template" src="https://github-readme-stats.vercel.app/api/pin/?username=mudriyjo&repo=rust-service-template&theme=radical&hide_border=true" /></a>
 <a href="https://github.com/mudriyjo/neovim-config"><img alt="neovim-config" src="https://github-readme-stats.vercel.app/api/pin/?username=mudriyjo&repo=neovim-config&theme=radical&hide_border=true" /></a>
 
 <a href="https://github.com/mudriyjo/ash_example"><img alt="ash_example" src="https://github-readme-stats.vercel.app/api/pin/?username=mudriyjo&repo=ash_example&theme=radical&hide_border=true" /></a>
-<a href="https://github.com/mudriyjo/architecture-hub"><img alt="architecture-hub" src="https://github-readme-stats.vercel.app/api/pin/?username=mudriyjo&repo=architecture-hub&theme=radical&hide_border=true" /></a>
+<a href="https://github.com/mudriyjo/grpc-rust-ms-template"><img alt="grpc-rust-ms-template" src="https://github-readme-stats.vercel.app/api/pin/?username=mudriyjo&repo=grpc-rust-ms-template&theme=radical&hide_border=true" /></a>
 
 </div>
 
